@@ -1,0 +1,51 @@
+.contact-container{
+    display: flex;
+    justify-content: center;
+}
+.contact {
+    width: 800px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 100px;
+    background-color: black;
+    border-radius: 20px; 
+    color: white;
+    border:1px solid rgb(80, 71, 71);
+    box-shadow: 0px 19px 29px rgb(116, 93, 93);
+}
+
+.contact-head {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+.contact-objects {
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contact-object {
+    flex: 0.4;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
+
+@media screen and (max-width: 850px){
+    .contact-objects{
+        flex-direction: column;
+        margin-left: 0px;
+    }
+    .contact-head{
+        margin-left: 0px;
+    }
+    
+    .contact{
+        width: 80%;
+
+    }
+}

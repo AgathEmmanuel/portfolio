@@ -68,3 +68,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+## Steps
+
+npx create-react-app portfolio  
+
+cd portfolio  
+
+npm start  
+
+
+
+npm install react-router-dom    
+
+nmp uninstall react-router-dom  
+
+
+
+
+
+## Links  
+
+- [https://www.digitalocean.com/community/tutorials/how-to-implement-smooth-scrolling-in-react](https://www.digitalocean.com/community/tutorials/how-to-implement-smooth-scrolling-in-react)  
+- [https://medium.com/how-to-react/scroll-to-an-element-on-click-in-react-js-8424e478bb9](https://medium.com/how-to-react/scroll-to-an-element-on-click-in-react-js-8424e478bb9)  
+
+
+
+
+

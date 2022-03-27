@@ -1,0 +1,98 @@
+.home{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+.home-intro{
+    font-size: 26px;
+    padding-top: 20px;
+}
+.home-title{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.home-details{
+    font-size: 18px;
+    padding-top: 20px;
+}
+.home-left{
+    flex: 1.8;
+}
+.home-left-container1{
+    padding: 150px;
+}
+.home-right{
+    flex: 1;
+}
+.home-right-container1{
+    padding: 150px;
+}
+
+.home-myimage{
+    width: 360px;
+    object-fit: contain;
+    margin-top: 120px;
+    border-radius: 80px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+
+@media screen and (max-width: 980px){
+
+.home{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+.home-intro{
+    font-size: 1.8em;
+    padding-top: 2em;
+    text-align: center;
+}
+.home-title{
+    font-size: 1em;
+    padding-top: 2em;
+    text-align: center;
+}
+.home-details{
+    font-size: 18px;
+    padding-top: 2em;
+    margin-left: 1.2em;
+}
+.home-left{
+    flex: 1;
+}
+.home-left-container1{
+    padding: 00px;
+}
+.home-right{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+
+}
+.home-right-container1{
+    padding: 00px;
+}
+
+.home-myimage{
+    width: 18em;
+    object-fit: contain;
+    margin-top: 0px;
+    border-radius: 2em;
+    margin-bottom: 0px;
+    margin-right: 00px;
+    margin-left: 00px;
+}
+
+
+
+}

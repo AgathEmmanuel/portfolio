@@ -75,6 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Steps
 
+```
 npx create-react-app portfolio  
 
 cd portfolio  
@@ -85,11 +86,41 @@ npm start
 
 npm install react-router-dom    
 
-nmp uninstall react-router-dom  
+npm uninstall react-router-dom  
+
+```
+
+### Gihubpages for React app
+```
+
+# Push your files to the git repo 
+
+git push -u origin main  
+
+
+# Add URL to package.json  
+
+"homepage": "https://USERNAME.github.io/REPONAME",
+
+
+# install gh-pages  
+
+npm install gh-pages --save-dev 
+
+
+# create deploy script inside package.json script section  
+
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+
+
+# deploy your page
+
+npm run deploy
 
 
 
-
+```
 
 ## Links  
 

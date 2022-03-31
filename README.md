@@ -1,3 +1,18 @@
+
+
+# Getting Started 
+
+This project was built using node version  
+
+      v14.18.2  
+
+
+nvm use v14.18.2  
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

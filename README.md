@@ -126,6 +126,7 @@ npm run deploy
 
 - [https://www.digitalocean.com/community/tutorials/how-to-implement-smooth-scrolling-in-react](https://www.digitalocean.com/community/tutorials/how-to-implement-smooth-scrolling-in-react)  
 - [https://medium.com/how-to-react/scroll-to-an-element-on-click-in-react-js-8424e478bb9](https://medium.com/how-to-react/scroll-to-an-element-on-click-in-react-js-8424e478bb9)  
+- [https://fonts.google.com/specimen/Mochiy+Pop+One#standard-styles](https://fonts.google.com/specimen/Mochiy+Pop+One#standard-styles)  
 
 
 

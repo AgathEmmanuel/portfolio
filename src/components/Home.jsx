@@ -17,7 +17,7 @@ const Home = () => {
             <br></br>
             <div className='home-details'>
             <p>An Engineer who's passionate about Innovation and Technology.
-            I Love everything about Software Development & System Desgn.
+            I Love everything about Software Development & Distributed System Design.
             Always Curious to Learn and Driven to Do More.</p>
           </div>
         </div>

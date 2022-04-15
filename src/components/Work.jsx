@@ -34,7 +34,7 @@ const Work = () => {
               <li>Designing solutions to improve infrastructure efficiency and developer experience.</li>
               <li>Implementation and practice of methodologies like GitOps, DevOps and DevSecOps.</li>
               <li>Continously Research on current and emerging technologies</li>
-              <li>Act as a technical point of contact for developers</li>
+              <li>Technical point of contact for developers in building microservices on Kubernetes</li>
               <li>Proposing changes to designs for better efficiency</li>
               <li>Adoption and implementation of new technologies</li>
               <li>Incident management, eleminating single point of failure, failure mitigation and more </li>
@@ -65,9 +65,10 @@ const Work = () => {
               <li>MERN</li>
               <li>PostrgreSQL</li>
               <li>Terraform</li>
-              <li>Gatekeeper</li>
+              <li>OPA Gatekeeper</li>
               <li>Cloudformation</li>
               <li>Prometheus</li>
+              <li>Skaffold</li>
             </ul>
             </div>
             </div>

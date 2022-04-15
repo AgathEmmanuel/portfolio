@@ -66,7 +66,7 @@ const Work = () => {
               <li>FastAPI</li>
               <li>PostrgreSQL</li>
               <li>Terraform</li>
-              <li>OPA Gatekeeper</li>
+              <li>Gatekeeper</li>
               <li>Cloudformation</li>
               <li>Prometheus</li>
             </ul>

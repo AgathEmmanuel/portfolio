@@ -62,8 +62,8 @@ const Work = () => {
             <ul className="work-skills-list-right">
               <li>Helm</li>
               <li>Skaffold</li>
-              <li>FastAPI</li>
               <li>MERN</li>
+              <li>FastAPI</li>
               <li>PostrgreSQL</li>
               <li>Terraform</li>
               <li>OPA Gatekeeper</li>

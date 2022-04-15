@@ -61,6 +61,7 @@ const Work = () => {
             </ul>
             <ul className="work-skills-list-right">
               <li>Helm</li>
+              <li>Skaffold</li>
               <li>FastAPI</li>
               <li>MERN</li>
               <li>PostrgreSQL</li>
@@ -68,7 +69,6 @@ const Work = () => {
               <li>OPA Gatekeeper</li>
               <li>Cloudformation</li>
               <li>Prometheus</li>
-              <li>Skaffold</li>
             </ul>
             </div>
             </div>

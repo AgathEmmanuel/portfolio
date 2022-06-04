@@ -91,6 +91,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Steps
 
 ```
+nvm use v14.18.2  
+
 npx create-react-app portfolio  
 
 cd portfolio  

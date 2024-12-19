@@ -4,8 +4,9 @@ import Project from './Project';
 
 const Projects = () => {
     const data=[
-        {name:"MakeYourSpace",description:"A Social Platform to create Relations and Attachments that we create in real world, instead of not just being a networking platform",linkto:"https://github.com/AgathEmmanuel/MakeYourSpace"},
-        {name:"RentIt",description:"A Renting Platform where you can rent out anything to anyone in your specified locality and beyond",linkto:"https://github.com/AgathEmmanuel/RentIt"},
+        {name:"Aviator",description:"A k8s Operator for intelligent scaling and traffic routing. We will have a new resource type called aviator that scales the workloads based on request processing speed of the pods. ",linkto:"https://github.com/AgathEmmanuel/aviator"},
+        {name:"dDNS",description:"A DePIN project aimed towards decentralizing DNS. Internet could be free and DNS is connecting piece that should allow people to trasfer information with a central authority.",linkto:"https://github.com/AgathEmmanuel/ddns"},
+        {name:"RecipeGPT",description:"A GPT for recommending recipes. People can provide the ingredients or groceries the have in stock and the GPT will provide a simple recipe according to user requirements.",linkto:"https://github.com/AgathEmmanuel/recipegpt"},
     ];
   return (
      <div>

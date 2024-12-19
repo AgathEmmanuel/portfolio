@@ -1,16 +1,16 @@
             
 import "./Work.css"
-import mywork from "../../src/image/mywork.png"
+import mywork1 from "../../src/image/phaidra_virtual_plant_operator.png"
 
 
-const Work = () => {
+const Work1 = () => {
   return (
     <div className="work">
         <div className="work-left">
             <div className="work-left-container1">
             </div>
             <div className="work-left-container2">
-                    <img src={mywork}
+                    <img src={mywork1}
                      alt=""
                      className="work-image" />
             </div>
@@ -77,5 +77,5 @@ const Work = () => {
   )
 }
 
-export default Work
+export default Work1
 

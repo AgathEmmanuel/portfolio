@@ -1,6 +1,5 @@
 import "./About.css"
 import mybigimage from "../../src/image/mybigimage.png"
-import Projects from "./Projects"
 
 
 const About = () => {

@@ -1,21 +1,11 @@
             
-import "./Work.css"
+import "./Work1.css"
 import mywork1 from "../../src/image/phaidra_virtual_plant_operator.png"
 
 
 const Work1 = () => {
   return (
     <div className="work">
-        <div className="work-left">
-            <div className="work-left-container1">
-            </div>
-            <div className="work-left-container2">
-                    <img src={mywork1}
-                     alt=""
-                     className="work-image" />
-            </div>
-
-        </div>
         <div className="work-right">
             <h1 className="work-heading">What do I do ?</h1>
             <div className="work-description">
@@ -68,10 +58,22 @@ const Work1 = () => {
               <li>Cloudformation</li>
               <li>Prometheus</li>
             </ul>
-            </div>
-            </div>
-</div>
+          </div>
         </div>
+    </div>
+        </div>
+
+        <div className="work-left">
+            <div className="work-left-container1">
+            </div>
+            <div className="work-left-container2">
+                    <img src={mywork1}
+                     alt=""
+                     className="work-image" />
+            </div>
+
+        </div>
+
       
     </div>
   )

@@ -14,12 +14,12 @@ const Work = () => {
                      alt=""
                      className="work-image" />
             </div>
-
         </div>
+
         <div className="work-right">
-            <h1 className="work-heading">What do I do ?</h1>
+            <h1 className="work-heading">2021-2022</h1>
             <div className="work-description">
-                I'm am presently working as part of a core
+                I was working as part of a core
                 <p id="work-word"> Platform Engineering </p>
                 team at UST for our client 
                 in bridging the gap between Software and Infrastructure to deliver smooth developer experience and 
@@ -69,10 +69,9 @@ const Work = () => {
               <li>Prometheus</li>
             </ul>
             </div>
-            </div>
-</div>
+          </div>
         </div>
-      
+      </div>
     </div>
   )
 }
